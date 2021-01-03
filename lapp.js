@@ -240,5 +240,5 @@ parisCookies.render();
 }
 
 
-parisCookies.hourlyDailySales();
-parisCookies.render();
+limaCookies.hourlyDailySales();
+limaCookies.render();
